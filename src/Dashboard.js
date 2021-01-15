@@ -7,9 +7,9 @@ import Grid from '@material-ui/core/Grid';
 import axios from 'axios';
 import moment from 'moment';
 
-// const CHANNEL_ID = 'UCxt7g-ykvpYio9IJt-xJfdQ';
-// const API_KEY = 'AIzaSyCIOhG7FiItf0dZmT_kmyPFGl948WN9vIk';
-const YOUTUBE_API = 'https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCxt7g-ykvpYio9IJt-xJfdQ&eventType=live&type=video&key=AIzaSyCIOhG7FiItf0dZmT_kmyPFGl948WN9vIk';
+
+
+const YOUTUBE_API = ""
 
 class Dashboard extends Component {
 
